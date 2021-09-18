@@ -1,2 +1,2 @@
 # xyre
-AUR helper, soon to be, written in Swift.
+AUR helper, soon to be, written in something that isn't Swift.
