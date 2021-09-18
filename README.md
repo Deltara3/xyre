@@ -1,2 +1,2 @@
 # xyre
-AUR helper because why not?
+AUR helper, soon to be, written in Swift.
